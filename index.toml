@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/alexs-mobs.pw.toml"
+hash = "240cf6196aef5a820435e10b12837daab76750206f68b3885e91c5a6e9248470"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "8d0321177fed4a0b48554c40158b43db62f6cdaa768f584ef6a11575dfaa6223"
 metafile = true
@@ -16,6 +21,21 @@ hash = "15e15983557b274c6b5064394915d1c7e963db788fbebe1b5b2a4f220bd174ad"
 metafile = true
 
 [[files]]
+file = "mods/botarium.pw.toml"
+hash = "582fca8744b95d3fec80562826c9dd76be2c816708985d595788caacb8fede22"
+metafile = true
+
+[[files]]
+file = "mods/caelus.pw.toml"
+hash = "3f8431a6051fd48b0ab6a2080de605cc8c8cc2a3041800b04c80d32b9ca57547"
+metafile = true
+
+[[files]]
+file = "mods/citadel.pw.toml"
+hash = "2c0dd81ff006b01fb3b2020b63eb7a7626970ba425c487dbdc01c595ac37932d"
+metafile = true
+
+[[files]]
 file = "mods/controlling.pw.toml"
 hash = "1e56f528d8e21b0cf9c52c3d6deea2a4eafa408170b39a070195dbf66617f373"
 metafile = true
@@ -28,6 +48,16 @@ metafile = true
 [[files]]
 file = "mods/create-enchantment-industry.pw.toml"
 hash = "63fe5fc1d7b29a73db90113babd4c9df92e54b79e384bfe22d3b2610e56f12b6"
+metafile = true
+
+[[files]]
+file = "mods/create-new-age.pw.toml"
+hash = "011d35087c3d81b17000ba7604a73fef600a868021eed8c14df2dc2b77ca7ddc"
+metafile = true
+
+[[files]]
+file = "mods/create-ore-excavation.pw.toml"
+hash = "c2e4a53b665837b26ea2d65b7f55c7d020aece4694ed1a7aa42ce722961e565c"
 metafile = true
 
 [[files]]
@@ -51,6 +81,11 @@ hash = "36672819f67335f5cdd349f49faa27582d6f7f68955c2a3d0e62584b6d6735ee"
 metafile = true
 
 [[files]]
+file = "mods/elytra-slot.pw.toml"
+hash = "a2663a196a9991708b9eefe7505e1775e67c4ad996a15b493513f318c9b82352"
+metafile = true
+
+[[files]]
 file = "mods/first-person-model.pw.toml"
 hash = "7d08648f8ef3ab04c8675e6564670a8a96d1d20cd3438a0801005a16a32bbfd9"
 metafile = true
@@ -58,11 +93,6 @@ metafile = true
 [[files]]
 file = "mods/flib.pw.toml"
 hash = "84c859b92abc5d7db0251d7bcc046293ff0a26729b92feaa3977e082263a9c06"
-metafile = true
-
-[[files]]
-file = "mods/iron-chests.pw.toml"
-hash = "4aba12c2a18205fe6d25d1af817ee8c0baa580a74048cb30c659f6be66f31d2e"
 metafile = true
 
 [[files]]
@@ -111,8 +141,28 @@ hash = "5a1192528bb03cab00ab6d81bffd6f89faa653b5385b8e1c03963c4d78e287e3"
 metafile = true
 
 [[files]]
-file = "mods/simple-storage-network.pw.toml"
-hash = "63edf067c594089af4f367df3f5374beca34161364801839943607ab5a788dba"
+file = "mods/skin-layers-3d.pw.toml"
+hash = "1fd71627fc520c6b39d310bff6b6b26fb56ae627627959c641a38f6ca7de81ba"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-backpacks.pw.toml"
+hash = "f6c7896e6fd5ea1d9f9334ca51d44020e4564eb62b6eb5ac684842703ca8fd17"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-core.pw.toml"
+hash = "04dfd3580332c4d67a86009b8c1a22db329d9c38bc45f8fce9514dde92e5cd35"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-storage.pw.toml"
+hash = "29d8215e0511484e2145ec7bf902c2ecba2113a2128460331612791b58dbe04c"
+metafile = true
+
+[[files]]
+file = "mods/sound-physics-remastered.pw.toml"
+hash = "5bf5faa4a3e31485734580e9b319423bdccf28bc94f91d7164f175fda959a47e"
 metafile = true
 
 [[files]]
