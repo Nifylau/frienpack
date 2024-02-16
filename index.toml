@@ -1,0 +1,16 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/create.pw.toml"
+hash = "6ecc31d75d379730df8fe950438b4ca26ed1daa8612406374552665f9222f9ea"
+metafile = true
+
+[[files]]
+file = "mods/mekanism-generators.pw.toml"
+hash = "02804388e87b303cab66f88ba3a8a75852970e92f62cc5caa237030aec37bbf2"
+metafile = true
+
+[[files]]
+file = "mods/mekanism.pw.toml"
+hash = "d5398c3eabe6d44bc7b98d0ad6ca930aa53736567ccd2773d4d9efe28a8099fd"
+metafile = true
