@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/3dskinlayers.pw.toml"
+hash = "7318b31316fd07d9389d03e0cf62bfeff8ec92c869ab5bea0a7a3aa4508790bc"
+metafile = true
+
+[[files]]
 file = "mods/alexs-mobs.pw.toml"
 hash = "240cf6196aef5a820435e10b12837daab76750206f68b3885e91c5a6e9248470"
 metafile = true
@@ -67,7 +72,7 @@ metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "6ecc31d75d379730df8fe950438b4ca26ed1daa8612406374552665f9222f9ea"
+hash = "c464b21ac8baf5ed1d22a0c4bacfcf24977e04dc938add65a2a93bcaf704c22e"
 metafile = true
 
 [[files]]
@@ -81,13 +86,18 @@ hash = "36672819f67335f5cdd349f49faa27582d6f7f68955c2a3d0e62584b6d6735ee"
 metafile = true
 
 [[files]]
+file = "mods/destroy.pw.toml"
+hash = "85063ba86db4880177fa26fc5f3ec80a7d7450b411f740c52637d7b36dd58231"
+metafile = true
+
+[[files]]
 file = "mods/elytra-slot.pw.toml"
 hash = "a2663a196a9991708b9eefe7505e1775e67c4ad996a15b493513f318c9b82352"
 metafile = true
 
 [[files]]
 file = "mods/first-person-model.pw.toml"
-hash = "7d08648f8ef3ab04c8675e6564670a8a96d1d20cd3438a0801005a16a32bbfd9"
+hash = "4cca7e4b4c22601dedf57ac34682f074350f5a7078c8a8c2045d7610be062e43"
 metafile = true
 
 [[files]]
