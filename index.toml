@@ -1,8 +1,73 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/appleskin.pw.toml"
+hash = "8d0321177fed4a0b48554c40158b43db62f6cdaa768f584ef6a11575dfaa6223"
+metafile = true
+
+[[files]]
+file = "mods/biomes-o-plenty.pw.toml"
+hash = "b0119b17c7c9a075780d55dc87749942a835365db5578102d6250db8875e8267"
+metafile = true
+
+[[files]]
+file = "mods/botania.pw.toml"
+hash = "15e15983557b274c6b5064394915d1c7e963db788fbebe1b5b2a4f220bd174ad"
+metafile = true
+
+[[files]]
+file = "mods/controlling.pw.toml"
+hash = "1e56f528d8e21b0cf9c52c3d6deea2a4eafa408170b39a070195dbf66617f373"
+metafile = true
+
+[[files]]
+file = "mods/create-destroy.pw.toml"
+hash = "b3d1faf262348764b8047e21e5ccfa5f7c95298415d506f0a6f09f8eb0857c76"
+metafile = true
+
+[[files]]
+file = "mods/create-enchantment-industry.pw.toml"
+hash = "63fe5fc1d7b29a73db90113babd4c9df92e54b79e384bfe22d3b2610e56f12b6"
+metafile = true
+
+[[files]]
+file = "mods/create-steam-n-rails.pw.toml"
+hash = "f391d8786e495abf68c3ca8f8aec546c6a66b13a170e1b0378b95dfa3fba1f9d"
+metafile = true
+
+[[files]]
 file = "mods/create.pw.toml"
 hash = "6ecc31d75d379730df8fe950438b4ca26ed1daa8612406374552665f9222f9ea"
+metafile = true
+
+[[files]]
+file = "mods/createaddition.pw.toml"
+hash = "e3675974e82fcae3aa0c612c5a7709739e6c83710ee4d0ccef890afcecc40c87"
+metafile = true
+
+[[files]]
+file = "mods/curios.pw.toml"
+hash = "36672819f67335f5cdd349f49faa27582d6f7f68955c2a3d0e62584b6d6735ee"
+metafile = true
+
+[[files]]
+file = "mods/first-person-model.pw.toml"
+hash = "7d08648f8ef3ab04c8675e6564670a8a96d1d20cd3438a0801005a16a32bbfd9"
+metafile = true
+
+[[files]]
+file = "mods/flib.pw.toml"
+hash = "84c859b92abc5d7db0251d7bcc046293ff0a26729b92feaa3977e082263a9c06"
+metafile = true
+
+[[files]]
+file = "mods/iron-chests.pw.toml"
+hash = "4aba12c2a18205fe6d25d1af817ee8c0baa580a74048cb30c659f6be66f31d2e"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "b9e82527f9d5d2152c4e095c00a3d0a30a29825479fd73e7e24a2634bde112be"
 metafile = true
 
 [[files]]
@@ -16,6 +81,41 @@ hash = "d5398c3eabe6d44bc7b98d0ad6ca930aa53736567ccd2773d4d9efe28a8099fd"
 metafile = true
 
 [[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "fac74cc46a4424c4a235a6efbb7e8b3b62c200ad95564e230857eec26b33f216"
+metafile = true
+
+[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "1d602996f39fb6103a5b968f50ec06800db7125b145570474c9c10e6dcd0c68e"
+metafile = true
+
+[[files]]
+file = "mods/pams-harvestcraft-2-crops.pw.toml"
+hash = "58fa126079b9f120d9b70cc9676eda1fecbc515edd14123f57a88abd35645998"
+metafile = true
+
+[[files]]
+file = "mods/pams-harvestcraft-2-food-core.pw.toml"
+hash = "82da9f309f7f4a70cba7885bc52f0723137bb9925a62e545db07b95be65870a0"
+metafile = true
+
+[[files]]
+file = "mods/patchouli.pw.toml"
+hash = "3a7eaa64434e7449e5fe6bd089bc784499432dae7d6ca07174b55b10a3b32ec8"
+metafile = true
+
+[[files]]
+file = "mods/searchables.pw.toml"
+hash = "5a1192528bb03cab00ab6d81bffd6f89faa653b5385b8e1c03963c4d78e287e3"
+metafile = true
+
+[[files]]
+file = "mods/simple-storage-network.pw.toml"
+hash = "63edf067c594089af4f367df3f5374beca34161364801839943607ab5a788dba"
+metafile = true
+
+[[files]]
+file = "mods/terrablender.pw.toml"
+hash = "570d8ea67256d5fdcbba9504cb77c49dac326c1116d84e3c48ae5a6113fdf8a7"
 metafile = true
