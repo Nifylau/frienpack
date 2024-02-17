@@ -1,26 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".idea/frienpack.iml"
-hash = "c96ea0b5b29abb7d5807671dd208fd63f63694dd236335d2fe8c074e89e94aa6"
-
-[[files]]
-file = ".idea/misc.xml"
-hash = "7c407574ffa3b8b662ddfe44b51a2bd7dff033acc7b6ef94793a0b3255ba919c"
-
-[[files]]
-file = ".idea/modules.xml"
-hash = "07a4cc47b13b76126854e40f829d353be474915d3565ee1100808eb43a8607ff"
-
-[[files]]
-file = ".idea/vcs.xml"
-hash = "62be7e0a7f84ab3c35b4d4bafb890a4951d061eadafde1a10aa3f5d0406db5df"
-
-[[files]]
-file = ".idea/workspace.xml"
-hash = "83e1d78a34d041479e668620941c9f510e269897c70eda19c57fbe165fe670c1"
-
-[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "7318b31316fd07d9389d03e0cf62bfeff8ec92c869ab5bea0a7a3aa4508790bc"
 metafile = true
