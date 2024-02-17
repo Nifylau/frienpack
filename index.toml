@@ -111,6 +111,11 @@ hash = "f391d8786e495abf68c3ca8f8aec546c6a66b13a170e1b0378b95dfa3fba1f9d"
 metafile = true
 
 [[files]]
+file = "mods/create-track-map.pw.toml"
+hash = "9c29a2143f86c5ff6224071809c3ae1495cf76584ec0b1486f95b6ac0716654c"
+metafile = true
+
+[[files]]
 file = "mods/create.pw.toml"
 hash = "c464b21ac8baf5ed1d22a0c4bacfcf24977e04dc938add65a2a93bcaf704c22e"
 metafile = true
@@ -208,6 +213,11 @@ metafile = true
 [[files]]
 file = "mods/journeymap.pw.toml"
 hash = "d879895587879c252012bc6b89ca6dd1241d3a1aac5d8c1557c6632fd4b84a47"
+metafile = true
+
+[[files]]
+file = "mods/kotlin-for-forge.pw.toml"
+hash = "fab49ce0c16fa78f71c7b39d23a4318055598f1cee0a964781f3b56801e2ed44"
 metafile = true
 
 [[files]]
