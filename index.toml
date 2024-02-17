@@ -71,6 +71,11 @@ hash = "868e0da536e928b1510a81f1cb3cefdeb151580d3672c7a14642817e889c9a29"
 metafile = true
 
 [[files]]
+file = "mods/colorful-hearts.pw.toml"
+hash = "bbd37c0148855bc6aaac27bdc7aef5acef2f29180da52adfa5818573924135f1"
+metafile = true
+
+[[files]]
 file = "mods/comforts.pw.toml"
 hash = "6bdf5c00414be2b3bb20d040afe2e90550a300755414aaff01577eed6eaf491f"
 metafile = true
@@ -133,6 +138,11 @@ metafile = true
 [[files]]
 file = "mods/createaddition.pw.toml"
 hash = "e3675974e82fcae3aa0c612c5a7709739e6c83710ee4d0ccef890afcecc40c87"
+metafile = true
+
+[[files]]
+file = "mods/creativecore.pw.toml"
+hash = "063f8da4ec5661d355b7771b4d50a9e612ef7dfce9794040c7fc8660d101956e"
 metafile = true
 
 [[files]]
@@ -233,6 +243,11 @@ metafile = true
 [[files]]
 file = "mods/inventory-hud-forge.pw.toml"
 hash = "b89733a48c29082434f6bce4616c0f528c3a5b40ee3b807f86a9f8241e05587b"
+metafile = true
+
+[[files]]
+file = "mods/itemphysic.pw.toml"
+hash = "7d92f3e6cea3ed6b39b92afebda16d363855b332a70595b5409fe3ca6423736e"
 metafile = true
 
 [[files]]
