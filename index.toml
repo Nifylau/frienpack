@@ -66,6 +66,11 @@ hash = "1e56f528d8e21b0cf9c52c3d6deea2a4eafa408170b39a070195dbf66617f373"
 metafile = true
 
 [[files]]
+file = "mods/cosmetic-armor-reworked.pw.toml"
+hash = "cfa8aa9c0437721dab2057c932c9cf8ec3d3a11f672040601305238d13df85e8"
+metafile = true
+
+[[files]]
 file = "mods/create-deco.pw.toml"
 hash = "3054a4c846f399e23a8f06d2460e0c6a9ff32f8c5341e500098b59a4db0c71f2"
 metafile = true
@@ -136,6 +141,11 @@ hash = "c7ac97f198d23d00be8d98db22da394d69aa568c42ec9c66cf0473716857ad3c"
 metafile = true
 
 [[files]]
+file = "mods/extreme-sound-muffler.pw.toml"
+hash = "2f63b1dca33be9ca4d721d7567dcd530c24fc147c9b01a8b52d204d4584386f6"
+metafile = true
+
+[[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "dec4a848fbbd45662a533444aa0749c230deb718b5117ceb279963e91ac78f85"
 metafile = true
@@ -143,6 +153,11 @@ metafile = true
 [[files]]
 file = "mods/farsight.pw.toml"
 hash = "13eac65c087546f7491d3f5b9806812555540fc4d537cbe4d371f61caa51092b"
+metafile = true
+
+[[files]]
+file = "mods/fast-leaf-decay.pw.toml"
+hash = "4da758690c2a7ac4d0e17283203d0b1bac670edfaf42f1863cd624941d3a0145"
 metafile = true
 
 [[files]]
