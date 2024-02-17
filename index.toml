@@ -56,6 +56,11 @@ hash = "3f8431a6051fd48b0ab6a2080de605cc8c8cc2a3041800b04c80d32b9ca57547"
 metafile = true
 
 [[files]]
+file = "mods/chunky-pregenerator-forge.pw.toml"
+hash = "761d64faaf22c81387d674fcb45cf6e8cc5bc055117a0ba959a316075414e6f1"
+metafile = true
+
+[[files]]
 file = "mods/citadel.pw.toml"
 hash = "868e0da536e928b1510a81f1cb3cefdeb151580d3672c7a14642817e889c9a29"
 metafile = true
