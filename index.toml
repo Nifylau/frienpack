@@ -131,6 +131,16 @@ hash = "b9e82527f9d5d2152c4e095c00a3d0a30a29825479fd73e7e24a2634bde112be"
 metafile = true
 
 [[files]]
+file = "mods/journeymap.pw.toml"
+hash = "add0e79881fb9c52ea46befe42c3194772f4f36dc50b5bd8b5c05f71a30095e9"
+metafile = true
+
+[[files]]
+file = "mods/mc2discord.pw.toml"
+hash = "170979c837c5f71cf77539566281bab4bcd3c729ed179faabc9a5bd22982b72c"
+metafile = true
+
+[[files]]
 file = "mods/mekanism-generators.pw.toml"
 hash = "02804388e87b303cab66f88ba3a8a75852970e92f62cc5caa237030aec37bbf2"
 metafile = true
