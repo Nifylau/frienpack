@@ -369,3 +369,8 @@ metafile = true
 file = "mods/terrablender.pw.toml"
 hash = "570d8ea67256d5fdcbba9504cb77c49dac326c1116d84e3c48ae5a6113fdf8a7"
 metafile = true
+
+[[files]]
+file = "resourcepacks/ambientsounds-remastered-sounds-pack.pw.toml"
+hash = "c5a3205a9a40c62aff6cf559e06934240936ee2fafd9bae0d7d8ba997fc57d00"
+metafile = true
