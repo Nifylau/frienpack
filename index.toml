@@ -116,6 +116,11 @@ hash = "63fe5fc1d7b29a73db90113babd4c9df92e54b79e384bfe22d3b2610e56f12b6"
 metafile = true
 
 [[files]]
+file = "mods/create-molten-vents.pw.toml"
+hash = "7aa3cf05e46e8c7cb3944f861a3cbf87f1dd915611915c21da50e5a6c5fd279e"
+metafile = true
+
+[[files]]
 file = "mods/create-new-age.pw.toml"
 hash = "011d35087c3d81b17000ba7604a73fef600a868021eed8c14df2dc2b77ca7ddc"
 metafile = true
