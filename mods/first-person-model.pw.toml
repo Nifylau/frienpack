@@ -11,3 +11,8 @@ hash = "adf0e26435e2d9aaef18efa352948c2f20e2a39a"
 [update.modrinth]
 mod-id = "H5XMjpHi"
 version = "MtWCrDLD"
+
+[option]
+optional = true
+default = true
+description = ""
