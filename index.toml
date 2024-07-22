@@ -1,6 +1,26 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".idea/frienpack.iml"
+hash = "c96ea0b5b29abb7d5807671dd208fd63f63694dd236335d2fe8c074e89e94aa6"
+
+[[files]]
+file = ".idea/misc.xml"
+hash = "7c407574ffa3b8b662ddfe44b51a2bd7dff033acc7b6ef94793a0b3255ba919c"
+
+[[files]]
+file = ".idea/modules.xml"
+hash = "07a4cc47b13b76126854e40f829d353be474915d3565ee1100808eb43a8607ff"
+
+[[files]]
+file = ".idea/vcs.xml"
+hash = "62be7e0a7f84ab3c35b4d4bafb890a4951d061eadafde1a10aa3f5d0406db5df"
+
+[[files]]
+file = ".idea/workspace.xml"
+hash = "6ddbc26a6b869fdda78ece334ea776ef0eacda44d6387a0ee6f3ac2272d3ef67"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "7318b31316fd07d9389d03e0cf62bfeff8ec92c869ab5bea0a7a3aa4508790bc"
 metafile = true
@@ -53,6 +73,11 @@ metafile = true
 [[files]]
 file = "mods/caelus.pw.toml"
 hash = "3f8431a6051fd48b0ab6a2080de605cc8c8cc2a3041800b04c80d32b9ca57547"
+metafile = true
+
+[[files]]
+file = "mods/cc-tweaked.pw.toml"
+hash = "59dcbc3a47f407858e52dbd02948e258ccc38ced0a78451bab9fbb6eb0b3e9be"
 metafile = true
 
 [[files]]
